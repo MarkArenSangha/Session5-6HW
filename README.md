@@ -2,9 +2,6 @@
 
 CLI program to calculate net income after tax based on gross income and number of children.
 
-## Requirements
-- Python 3.x
-
 ## How it works
 - Prompts for `gross` (float) and `children` (int).
 - Chooses a base tax rate by gross income:
